@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Inter', 'Arial', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 .header_parallax, .mid_parallax, .footer_parallax, .bonus_parallax, .bonus_bonus_parallax {
-    min-height: 500px;
+    min-height: 100vh;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
